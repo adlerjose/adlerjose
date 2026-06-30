@@ -61,7 +61,7 @@ I’m deeply focused on **architecture, performance**, and **clean code**.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -70,6 +70,6 @@ I’m deeply focused on **architecture, performance**, and **clean code**.
 </p>
 
 ---
-
+-->
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
